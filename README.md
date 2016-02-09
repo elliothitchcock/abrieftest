@@ -1,8 +1,6 @@
 # abrieftest
 Testing github and changes
 
-I don't know what a .md file does
+This branch is the master, and if branches are changed to have full compatibility, you can merge them.
 
-but I'm trying it out now
-
-Here's an added edit. Let's see if it branches.
+Isn't that neat?
